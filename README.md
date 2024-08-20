@@ -7,7 +7,7 @@
 ## 🔧 Мои основные навыки:
 - **Языки:** JavaScript, TypeScript
 - **Фреймворки:** React, Next.js
-- **CSS-фреймворки:** Tailwind CSS, Bootstrap
+- **CSS-фреймворки:** Tailwind CSS, Styled-components, CSS modules, Bootstrap
 - **Инструменты:** Git, Webpack, Vite
 - 
 ## 💼 Мои проекты:
