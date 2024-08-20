@@ -18,7 +18,9 @@
 
 **Контакты:**
 - 📫 Связаться со мной: katyiv02@gmail.com
-  [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram)](https://t.me/kapibarasss)
+- [![Telegram Button](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/kapibarasss)
+
+
 
 
  Я открыта для новых проектов и возможностей. Буду рада обсудить сотрудничество!
