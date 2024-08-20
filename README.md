@@ -1,16 +1,17 @@
-## Hi there 👋
+## Всем привет! 
 
 <!--
-**Kekyra228/Kekyra228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎨 Художник по образованию, фронтенд-разработчик по призванию.
+- 💻 Работаю с React, TypeScript и Tailwind CSS.
+- 🌱 В процессе изучения современных фронтенд технологий и подходов.
 
-Here are some ideas to get you started:
+Навыки:
+- **Языки:** JavaScript, TypeScript
+- **Фреймворки:** React, Next.js
+- **CSS-фреймворки:** Tailwind CSS, Bootstrap
+- **Инструменты:** Git, Webpack, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Контакты:**
+- 📫 Связаться со мной: katyiv02@gmail.com
+
 -->
